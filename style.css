@@ -155,10 +155,6 @@ button:hover {
     border-left: 4px solid var(--blue);
 }
 
-#info-container h2::before {
-    content: "⏱️ ";
-}
-
 #ingredients-container {
     background-color: var(--bg-light);
     color: var(--fg);
@@ -168,10 +164,6 @@ button:hover {
     border-left: 4px solid var(--green);
 }
 
-#ingredients-container h2::before {
-    content: "📋 ";
-}
-
 #images-container {
     background-color: var(--bg-light);
     color: var(--fg);
@@ -179,10 +171,6 @@ button:hover {
     margin-top: 16px;
     border-radius: 8px;
     border-left: 4px solid var(--aqua);
-}
-
-#images-container h2::before {
-    content: "📷 ";
 }
 
 #images-container img {
@@ -200,10 +188,6 @@ button:hover {
     border-left: 4px solid var(--orange);
 }
 
-#steps-container h2::before {
-    content: "🔪 ";
-}
-
 #notes-container {
     background-color: var(--bg-light);
     color: var(--fg);
@@ -211,10 +195,6 @@ button:hover {
     margin-top: 16px;
     border-radius: 8px;
     border-left: 4px solid var(--purple);
-}
-
-#notes-container h2::before {
-    content: "💡 ";
 }
 
 #based-on-container {
@@ -225,10 +205,6 @@ button:hover {
     border-radius: 8px;
     border-left: 4px solid var(--gray);
     font-size: 0.9em;
-}
-
-#based-on-container h2::before {
-    content: "🔗 ";
 }
 
 #sidebar {
