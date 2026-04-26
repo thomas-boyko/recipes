@@ -7,19 +7,20 @@ Quick 15-minute stir-fry with crispy chicken in addictive peanut sauce
 
 ## ingredients
 * 1 1/2 pounds chicken breast, chopped into bite-sized pieces
-* 3 tablespoons corn starch (or almond flour for low-carb)
+* 3 tablespoons corn starch (or flour)
 * 1/4 cup peanut butter (smooth, no added sugar or salt)
-* 1/4 cup hoisin sauce (or keto teriyaki sauce)
-* 3 tablespoons soy sauce (tamari or coconut aminos work)
+* 1/4 cup hoisin sauce (or teriyaki sauce)
+* Sriracha - to taste (1-3tsp)
+* 3 tablespoons soy sauce 
 * 1 teaspoon sesame oil
 * 1 clove garlic, minced
 * 1/2 cup water
-* 2 tablespoons oil for frying (peanut or safflower oil)
+* 2 tablespoons oil for frying (peanut or sunflower oil)
 * Sesame seeds and green onions for garnish
 
 ## steps  
 1. In a small bowl, add the chicken and cornstarch and toss until coated.
-2. In a mixing bowl, whisk together the peanut butter, hoisin sauce, soy sauce, sesame oil, minced garlic, and water until smooth.
+2. In a mixing bowl, whisk together the peanut butter, hoisin sauce, sriracha, soy sauce, sesame oil, minced garlic, and water until smooth.
 3. Add the oil into a non-stick pan and place it over medium heat. Once hot, add the chicken and cook for 5 minutes, until no longer pink.
 4. Add the sauce and mix until the chicken is coated. Cook for 5 minutes or until the sauce has thickened.
 5. Remove the pan off the heat and sprinkle with sesame seeds and green onions.
