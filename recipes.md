@@ -15,6 +15,10 @@
 * [Peanut Butter Fried Chicken](?recipe=peanut_butter_chicken)
 * [Chinese Pork Rib Soup](?recipe=pork_rib_soup)
 
+## Baking
+* [Chocolate Chip Cookies](?recipe=cookies)
+* [Chocolate Chip Banana Bread](?recipe=banana_bread)
+
 ## French
 * [Chicken Thighs with Shallots in Red Wine Vinegar](?recipe=chicken_thighs_shallots)
 * [French Onion Soup](?recipe=french_onion_soup)

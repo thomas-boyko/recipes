@@ -1,15 +1,15 @@
 # Easy (15 Minute) Wonton Soup
-Quick and easy wonton soup loaded with veggies
+Quick and easy wonton soup
 
 ## info  
-* About 15 minutes  
+* About 30 minutes 
 * 4 servings  
 
 ## ingredients
 * 6 cups chicken broth, low sodium
 * 1-inch piece fresh ginger, sliced thin
 * 1 clove minced garlic
-* 20 mini frozen wontons (Chicken Cilantro ones from Trader Joe's recommended)
+* ~20 mini frozen wontons (Costco Bibigo mini wontons)
 * 1 1/2 cups sliced shiitake mushrooms
 * 4 baby bok choy, halved lengthwise and halved
 * 1 tablespoon soy sauce
