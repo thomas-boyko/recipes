@@ -1,5 +1,3 @@
-# Recipes
-
 ## American
 * [The Best Homemade Chili](?recipe=best_chili)
 * [Old-Fashioned Beef Stew](?recipe=beef_stew)
@@ -18,9 +16,9 @@
 ## Baking
 * [Chocolate Chip Cookies](?recipe=cookies)
 * [Chocolate Chip Banana Bread](?recipe=banana_bread)
+* [Brownies](?recipe=brownies)
 
 ## French
-* [Chicken Thighs with Shallots in Red Wine Vinegar](?recipe=chicken_thighs_shallots)
 * [French Onion Soup](?recipe=french_onion_soup)
 
 ## Italian
@@ -35,6 +33,9 @@
 
 ## Spanish
 * [Chorizo and Potato Stew](?recipe=chorizo_potato_stew)
+
+## Scandinavian
+* [IKEA Dinner](?recipe=IKEA)
 
 ## Ukrainian
 * [Hasselback Kielbasa](?recipe=hasselback_kielbasa)
