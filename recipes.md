@@ -3,7 +3,7 @@
 * [Old-Fashioned Beef Stew](?recipe=beef_stew)
 * [Corn Chowder](?recipe=corn_chowder)
 
-## Asian-Inspired
+## Asian
 * [Wonton Soup](?recipe=wonton_soup)
 * [Beef and Broccoli](?recipe=beef_and_broccoli)
 * [Mongolian Beef](?recipe=mongolian_beef)
